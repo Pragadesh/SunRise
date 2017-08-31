@@ -6,4 +6,7 @@ public class Bird extends Animal implements Serializable {
 
 	private static final long serialVersionUID = -4380188948781279896L;
 
+	public Bird(String name){
+		super(name);
+	}
 }

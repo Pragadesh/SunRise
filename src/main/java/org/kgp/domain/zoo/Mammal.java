@@ -6,4 +6,7 @@ public class Mammal extends Animal implements Serializable{
 
 	private static final long serialVersionUID = -7356219041095560737L;
 
+	public Mammal(String name){
+		super(name);
+	}
 }

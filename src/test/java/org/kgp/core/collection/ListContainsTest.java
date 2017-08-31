@@ -1,4 +1,4 @@
-package org.kgp.java.collection;
+package org.kgp.core.collection;
 
 import java.util.ArrayList;
 import java.util.List;
